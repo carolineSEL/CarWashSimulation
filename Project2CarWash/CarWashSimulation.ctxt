@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CarWashSimulation
+comment0.text=\r\n\ The\ CarWashSimulation\ class\ will\ be\ used\ in\ the\ CarWashApplication\ to\ \r\n\ simulate\ the\ car\ wash.\ This\ class\ will\ handle\ the\ functions\ of\ the\ queue\r\n\ and\ wash\ each\ car.\ Data\ for\ analysis\ is\ also\ stored\ here.\ \r\n\r\n\ @author\ Caroline\ Lamb\ (assisted\ by\ Collaboration\ Center\ on\ 10/20/2021)\r\n\ @version\ 10/20/2021\r\n
+comment1.params=
+comment1.target=CarWashSimulation()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ CarWashSimulation\r\n
+comment2.params=
+comment2.target=void\ step()
+comment2.text=\r\n\ This\ method\ will\ be\ used\ in\ the\ CarWashApplication\ to\ simulate\ one\ \r\n\ minute\ in\ the\ car\ wash\ simulation.\ \r\n\r\n
+comment3.params=
+comment3.target=void\ serviceRemaining()
+comment3.text=\r\n\ This\ method\ will\ be\ used\ in\ the\ CarWashApplication\ to\ service\ the\ \r\n\ remaining\ cars\ after\ the\ car\ wash\ has\ "closed".\ \r\n\r\n
+numComments=4

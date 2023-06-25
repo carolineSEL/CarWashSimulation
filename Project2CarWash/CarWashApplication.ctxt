@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CarWashApplication
+comment0.text=\r\n\ The\ CarWashApplication\ class\ provides\ the\ main\ method\ for\ running\ the\ Car\r\n\ Wash\ simulation.\r\n\r\n\ @author\ Caroline\ Lamb\r\n\ @version\ 10/10/2021\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

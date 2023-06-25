@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Car
+comment0.text=\r\n\ A\ Car\ object\ represents\ a\ car\ in\ the\ CarWashSimulation.\ \r\n\r\n\ @author\ Caroline\ Lamb\r\n\ @version\ 10/10/2021\r\n
+comment1.params=arrived
+comment1.target=Car(int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Car.\ Contains\ the\ arrival\ time\ for\ \r\n\ each\ car.\ \r\n\ \r\n\ @param\ \ \ arrival\ time\ of\ the\ car.\r\n
+comment2.params=
+comment2.target=int\ arrivalT()
+comment2.text=\r\n\ A\ method\ to\ give\ the\ arrival\ time\ for\ each\ car.\ \r\n\r\n\ @return\ \ \ \ the\ time\ a\ particular\ car\ arrived\ at\ the\ car\ wash.\r\n
+numComments=3
